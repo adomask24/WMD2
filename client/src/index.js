@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//Renderinamas vaizdas (kas, kur)
 ReactDOM.render(
   <React.StrictMode>
     <App />
