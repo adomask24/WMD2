@@ -1,6 +1,6 @@
 # Introduction
 
-WMD v1.24 was created by Adomas Karalevčius for Warehouses that needs to track their materials. S
+WMD v1.24 was created by Adomas Karalevčius for Warehouses that needs to track their materials. Super app!!
 
 
 # Getting Started
